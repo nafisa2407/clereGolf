@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "449180798168",
+    "project_id": "myinsta-4c20c",
+    "storage_bucket": "myinsta-4c20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449180798168:android:070c3811873a0153b69bad",
+        "android_client_info": {
+          "package_name": "com.cleregolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449180798168-tdalh1ogonvqnmsj6j4qc8e41bg0lu5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQx1--7qDr9Eb54PgaRB_z8BeySPPsO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449180798168-tdalh1ogonvqnmsj6j4qc8e41bg0lu5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449180798168-kmefafejqva54uvle9hvprvedar51hdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.myInsta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449180798168:android:fb73e41cb19cbd00b69bad",
+        "android_client_info": {
+          "package_name": "com.myinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449180798168-tdalh1ogonvqnmsj6j4qc8e41bg0lu5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQx1--7qDr9Eb54PgaRB_z8BeySPPsO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449180798168-tdalh1ogonvqnmsj6j4qc8e41bg0lu5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449180798168-kmefafejqva54uvle9hvprvedar51hdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.myInsta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
